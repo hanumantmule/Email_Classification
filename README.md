@@ -1,5 +1,5 @@
-# Email Classification
-
+# Spam Email Classification
+Email is an essential mechanism to communicate people around the world for sharing useful financial and personal information within family, friends or even for official reasons. In occurrence of that, more possibility of undesirable illegitimate spam emails threads drops into user inbox as a junk mails and occupy additional storage space and lead to annoying task of email users to handle it. So it is fundamental need to classify the emails as harmful or useful. This project uses supervised learning approach to  classify the emails as spam or ham.
 
 ## Getting Started
 
