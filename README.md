@@ -9,9 +9,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 Python packages you need to install. The list of libraries and its version is added in requirement.txt file. 
 
-```
-Give examples
-```
+* [Numpy](https://pypi.org/project/numpy/) - The web framework used
+* [pandas]()
+* [matplotlib]()
+* [seaborn]()
+* [nltk]()
+* [sklearn]()
+* [imblearn]()
 
 ### Installing
 
