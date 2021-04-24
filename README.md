@@ -18,13 +18,11 @@ Python packages you need to install. The list of libraries and its version is ad
 * [imblearn](https://pypi.org/project/imblearn/) - Imbalanced-learn is a python package offering a number of re-sampling techniques.
 
 ### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+Here we are using PIP which is a package manager for Python packages, or modules if you like. 
+Note: If you have Python version 3.4 or later, PIP is included by default.
+To install the all the dependencies for the project. Type below command in shell console. 
 ```
-Give the example
+pip install -r requirements.txt
 ```
 
 And repeat
