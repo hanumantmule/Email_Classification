@@ -52,7 +52,9 @@ SVM Configuration : kernel='linear'
 Naive Bayes: The multinomial Naive Bayes classifier is suitable for classification with discrete features (e.g., word counts for text classification).
 Below tables shows the Classification report for SVM classifier and Naive bayes.
 
-![alt text](http://url/to/img.png)
+![SVM Result](https://github.com/hanumantmule/Email_Classification/blob/main/Screenshots/svm%20result.png)
+
+![Naive Bayes Result](https://github.com/hanumantmule/Email_Classification/blob/main/Screenshots/naive%20bayes%20result.png)
 
 
 
