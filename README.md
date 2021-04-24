@@ -57,9 +57,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Hanumant Mule** - [Github] (https://github.com/hanumantmule/)
+* **Namrata Kadam** - [Github] (https://github.com/hanumantmule/)
 
 ## License
 
