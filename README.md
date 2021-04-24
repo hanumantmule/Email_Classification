@@ -61,7 +61,8 @@ Below tables shows the Classification report for SVM classifier and Naive bayes.
 
 ![Naive Bayes Result](https://github.com/hanumantmule/Email_Classification/blob/main/Screenshots/naive%20bayes%20result.png)
 
-
+## Future Scope
+This model will be used as service for the email client like MS Outlook, Gmail or any personal email client,   which scan the email before accepting it in the Mailbox. If the email is detected as spam then notify the user and qurantine the email. 
 
 ## Contributing
 
