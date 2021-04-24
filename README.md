@@ -9,13 +9,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 Python packages you need to install. The list of libraries and its version is added in requirement.txt file. 
 
-* [Numpy](https://pypi.org/project/numpy/) - The web framework used
-* [pandas]()
-* [matplotlib]()
-* [seaborn]()
-* [nltk]()
-* [sklearn]()
-* [imblearn]()
+* [NumPy](https://pypi.org/project/numpy/) - NumPy is an open-source numerical Python library.
+* [pandas](https://pandas.pydata.org/) - Python Data Analysis Library.
+* [matplotlib](https://matplotlib.org/) - Library for creating static, animated, and interactive visualizations.
+* [seaborn](https://seaborn.pydata.org/) - Python data visualization library based on matplotlib.
+* [nltk](https://www.nltk.org/) - Natural Language Toolkit 
+* [sklearn](https://scikit-learn.org/) - Simple and efficient tools for predictive data analysis.
+* [imblearn](https://pypi.org/project/imblearn/) - Imbalanced-learn is a python package offering a number of re-sampling techniques.
 
 ### Installing
 
