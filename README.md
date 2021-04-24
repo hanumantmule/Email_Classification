@@ -47,13 +47,13 @@ We are planning to launch a web app which will provide classification service. U
 We have assesed the model using two classifiers, Support vector machine and Naive Bayes algorithms.
 Entire dataset contain 3672 ham emails and 1499 spam emails. 
 The test set (which is distinct from the train and validation sets used to develop the model) was composed of 742 spam and 293 Ham emails.
+
 SVM Configuration : kernel='linear'
-The multinomial Naive Bayes classifier is suitable for classification with discrete features (e.g., word counts for text classification).
+Naive Bayes: The multinomial Naive Bayes classifier is suitable for classification with discrete features (e.g., word counts for text classification).
 Below tables shows the Classification report for SVM classifier and Naive bayes.
 
-```
-Give an example
-```
+![alt text](http://url/to/img.png)
+
 
 
 ## Contributing
