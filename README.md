@@ -42,10 +42,11 @@ We are planning to launch a web app which will provide classification service. U
 4. Click the submit button. 
 5. Visualize the email class as spam or ham.
 
-### And coding style tests
+### Results
 
-Explain what these tests test and why
-
+We have assesed the model using two classifiers, Support vector machine and Naive Bayes algorithms.
+Entire dataset contain 3672 ham emails and 1499 spam emails. 
+The test set (which is distinct from the train and validation sets used to develop the model) was composed of
 ```
 Give an example
 ```
