@@ -29,15 +29,18 @@ This will install all the libraries mentioned in the requirements.txt file.
 ## Dataset
 
 The dataset used for this project is **Enron-Spam dataset**. This dataset is collected from [here](http://www2.aueb.gr/users/ion/data/enron-spam/). We have just used **Enron1** folder. It contains two folders of spam and ham. Each folder contains emails. We have iterated to each text file of those folders and created a dataframe and written to a csv file.
-Dataset can be found [here](https://github.com/hanumantmule/Email_Classification/blob/main/spam_ham_dataset.csv)
+Dataset can be found [here](https://github.com/hanumantmule/Email_Classification/blob/main/spam_ham_dataset.csv).
 
-### Break down into end to end tests
+### Test
 
-Explain what these tests test and why
+We are planning to launch a web app which will provide classification service. User will type/paste the email content into the text box and check whether the email is spam or ham by simply clicking submit button.
 
-```
-Give an example
-```
+**Steps to use**
+1. Launch the web application
+2. Open http://127.0.0.1:8080/ in the browser.
+3. Type or paste the email content into the textbox.
+4. Click the submit button. 
+5. Visualize the email class as spam or ham.
 
 ### And coding style tests
 
