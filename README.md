@@ -50,6 +50,7 @@ Enron1 dataset contain 3672 ham emails and 1499 spam emails.
 
 We have developed a web app which will provide classification service to the end user. User will type/paste the email content into the text box and check whether the email is spam or ham by simply clicking submit button.
 This is snapshot of the home page of the application.
+
 ![Home Page](https://github.com/hanumantmule/Email_Classification/blob/main/Screenshots//web%20app/home_page.png?raw=true)
 
 **Steps to use.**
