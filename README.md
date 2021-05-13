@@ -50,9 +50,9 @@ Enron1 dataset contain 3672 ham emails and 1499 spam emails.
 
 We are planning to launch a web app which will provide classification service. User will type/paste the email content into the text box and check whether the email is spam or ham by simply clicking submit button.
 
-**Steps to use.** ```[Web App Under Development]```
+**Steps to use.**
 1. Launch the web application
-2. Open [http://127.0.0.1:8080/](http://127.0.0.1:8080/) in the browser.
+2. Open [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in the browser.
 3. Type or paste the email content into the textbox.
 4. Click the submit button. 
 5. Visualize the email class as spam or ham.
@@ -74,7 +74,7 @@ Below tables shows the Classification report for SVM classifier and Naive bayes.
 ![Naive Bayes Result](https://github.com/hanumantmule/Email_Classification/blob/main/Screenshots/naive%20bayes%20result.png?raw=true)
 
 ## Future Scope
-This model will be used as service for the email client like MS Outlook, Gmail or any personal email client,   which scan the email before accepting it in the Mailbox. If the email is detected as spam then notify the user and qurantine the email. 
+This model will be used as service for the email client like MS Outlook, Gmail or any personal email client, which scan the email before accepting it in the Mailbox. If the email is detected as spam then notify the user and qurantine the email. 
 
 
 ## References
