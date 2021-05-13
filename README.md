@@ -25,7 +25,11 @@ To install the all the dependencies for the project. Type below command in shell
 pip install -r requirements.txt
 ```
 This will install all the libraries mentioned in the requirements.txt file.
+We have divided this application into **two** activities: 
+1. Model evaluation and saving the classifier into the disk --> A file named as 'email_classification.ipynb' is present in the root directory.
+2. Front end using python web framework flask --> A folder named as 'Web App', contains the zip file of the web application code. 
 
+**Note:** User need to save the model using the step 1 and then web application will use the saved model for prediction.
 ## Steps involved in implementation
 1. Understanding dataset
 2. Dataset preprocessing
@@ -63,7 +67,7 @@ This is snapshot of the home page of the application.
 
 ## Classification Results
 
-Till now We have assesed the model using two classifiers, Support vector machine and Naive Bayes algorithms.
+We have assesed the model using two classifiers, Support vector machine and Naive Bayes algorithms.
 Entire dataset contain 3672 ham emails and 1499 spam emails. 
 The test set (which is distinct from the train and validation sets used to develop the model) was composed of 742 spam and 293 Ham emails.
 
@@ -72,11 +76,8 @@ The test set (which is distinct from the train and validation sets used to devel
 **Naive Bayes:** The multinomial Naive Bayes classifier is suitable for classification with discrete features (e.g., word counts for text classification).
 
 Below tables shows the Classification report for SVM classifier and Naive bayes.
-
 ![SVM Result](https://github.com/hanumantmule/Email_Classification/blob/main/Screenshots/svm%20result.png?raw=true)
-
 ![Naive Bayes Result](https://github.com/hanumantmule/Email_Classification/blob/main/Screenshots/naive%20bayes%20result.png?raw=true)
-
 ## Future Scope
 This model will be used as service for the email client like MS Outlook, Gmail or any personal email client, which scan the email before accepting it in the Mailbox. If the email is detected as spam then notify the user and qurantine the email. 
 
@@ -85,7 +86,7 @@ This model will be used as service for the email client like MS Outlook, Gmail o
 [1] https://pip.pypa.io/en/stable/reference/pip_install/  
 [2] http://www2.aueb.gr/users/ion/data/enron-spam/  
 [3] https://towardsdatascience.com/higher-accuracy-and-less-process-time-in-text-classification-with-lda-and-tf-idf-d2d949e344c3
-
+[4] https://pypi.org/project/Flask/
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/hanumantmule/Email_Classification/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
