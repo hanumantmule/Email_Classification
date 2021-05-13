@@ -85,7 +85,7 @@ This model will be used as service for the email client like MS Outlook, Gmail o
 ## References
 [1] https://pip.pypa.io/en/stable/reference/pip_install/  
 [2] http://www2.aueb.gr/users/ion/data/enron-spam/  
-[3] https://towardsdatascience.com/higher-accuracy-and-less-process-time-in-text-classification-with-lda-and-tf-idf-d2d949e344c3
+[3] https://towardsdatascience.com/higher-accuracy-and-less-process-time-in-text-classification-with-lda-and-tf-idf-d2d949e344c3          
 [4] https://pypi.org/project/Flask/
 ## Contributing
 
