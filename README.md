@@ -8,6 +8,7 @@ Clone this project using below github url: https://github.com/hanumantmule/Email
 
 Python packages you need to install. The list of libraries and its version is added in requirement.txt file. 
 
+* [Flask] (https://flask.palletsprojects.com/en/2.0.x/) - Flask is a web application framework written in Python.
 * [NumPy](https://pypi.org/project/numpy/) - NumPy is an open-source numerical Python library.
 * [pandas](https://pandas.pydata.org/) - Python Data Analysis Library.
 * [matplotlib](https://matplotlib.org/) - Library for creating static, animated, and interactive visualizations.
